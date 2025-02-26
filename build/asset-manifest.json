@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-flow-interface/static/css/main.37742db7.css",
+    "main.js": "/react-flow-interface/static/js/main.ad2a9768.js",
+    "index.html": "/react-flow-interface/index.html",
+    "main.37742db7.css.map": "/react-flow-interface/static/css/main.37742db7.css.map",
+    "main.ad2a9768.js.map": "/react-flow-interface/static/js/main.ad2a9768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37742db7.css",
+    "static/js/main.ad2a9768.js"
+  ]
+}
