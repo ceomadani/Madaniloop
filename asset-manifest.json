@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-flow-interface/static/css/main.37742db7.css",
-    "main.js": "/react-flow-interface/static/js/main.ad2a9768.js",
-    "index.html": "/react-flow-interface/index.html",
-    "main.37742db7.css.map": "/react-flow-interface/static/css/main.37742db7.css.map",
-    "main.ad2a9768.js.map": "/react-flow-interface/static/js/main.ad2a9768.js.map"
+    "main.css": "/Madaniloop/static/css/main.37742db7.css",
+    "main.js": "/Madaniloop/static/js/main.b19161ff.js",
+    "index.html": "/Madaniloop/index.html",
+    "main.37742db7.css.map": "/Madaniloop/static/css/main.37742db7.css.map",
+    "main.b19161ff.js.map": "/Madaniloop/static/js/main.b19161ff.js.map"
   },
   "entrypoints": [
     "static/css/main.37742db7.css",
-    "static/js/main.ad2a9768.js"
+    "static/js/main.b19161ff.js"
   ]
 }
