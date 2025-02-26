@@ -1,8 +1,8 @@
 {
-  "name": "react-flow-interface",
+  "name": "madaniloop",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOURUSERNAME.github.io/react-flow-interface",
+  "homepage": "https://ceomadani.github.io/Madaniloop/",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.0",
     "@chakra-ui/react": "^2.8.0",
