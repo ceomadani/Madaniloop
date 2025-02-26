@@ -1,0 +1,364 @@
+.dark {
+  background-color: #27272A;
+  color: #fff;
+}
+
+.css-11ezchm {
+  background: #2d3748;
+  border-radius: 8px;
+  padding: 16px;
+  min-width: 250px;
+}
+
+.css-fta6td {
+  width: 100%;
+}
+
+.css-15gfov3 {
+  gap: 8px;
+}
+
+.css-opvkbs {
+  border-color: #4a5568;
+  opacity: 0.6;
+}
+
+.css-10zlqzs {
+  display: flex;
+  align-items: center;
+}
+
+.css-1igwmid {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.css-1thvb07,
+.css-lrvc3z,
+.css-a9qpxi {
+  width: 20px;
+  height: 20px;
+}
+
+.css-s747e9,
+.css-uvtkss,
+.css-vsy6gl {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.css-zgtese {
+  width: 100%;
+}
+
+.css-1op6ogi {
+  gap: 12px;
+}
+
+.css-ltfe9u {
+  background: transparent;
+  border: none;
+  color: inherit;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0;
+  resize: none;
+  width: 100%;
+}
+
+.css-44c6y4 {
+  gap: 4px;
+}
+
+.css-1itkogl {
+  font-size: 12px;
+  color: #a0aec0;
+}
+
+.css-mq9eh {
+  font-size: 14px;
+}
+
+.css-8eqi8x {
+  color: #4299e1;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.css-6cpqb8 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.css-10t5ls7 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.css-hnkv22 {
+  background: transparent;
+  padding: 4px;
+  color: inherit;
+}
+
+.css-10j028m {
+  font-size: 14px;
+  color: #a0aec0;
+}
+
+.css-sww0g2,
+.css-6oc8dj {
+  background: #4a5568;
+  border-radius: 4px;
+  padding: 2px 8px;
+}
+
+.css-1v61si9 {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.css-8g8ihq {
+  gap: 16px;
+}
+
+.css-1y3f6ad {
+  gap: 12px;
+}
+
+.css-gfmpii {
+  gap: 4px;
+}
+
+.css-nh0w5j {
+  font-size: 12px;
+  color: #a0aec0;
+}
+
+.css-odr1lp {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.css-1iz37ml {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.css-1hbh9xg {
+  color: #48bb78;
+}
+
+.css-1fitzzf {
+  color: #e53e3e;
+}
+
+.css-hzl7dz {
+  color: #48bb78;
+}
+
+.css-e6p70p {
+  color: #e53e3e;
+}
+
+.css-1sopb1u {
+  display: flex;
+  align-items: center;
+}
+
+.css-1msx9mj {
+  width: 16px;
+  height: 16px;
+}
+
+.css-10hf5hj {
+  font-size: 14px;
+  color: #a0aec0;
+}
+
+/* React Flow specific styles */
+.react-flow__node {
+  cursor: pointer;
+}
+
+.react-flow__edge {
+  pointer-events: all;
+  cursor: pointer;
+}
+
+.react-flow__edge:hover {
+  stroke-width: 2;
+}
+
+.react-flow__edge:hover .edge-button {
+  opacity: 1;
+}
+
+.react-flow__edge-path {
+  stroke: #4a5568;
+}
+
+.react-flow__edge.animated .react-flow__edge-path {
+  stroke-dasharray: 5;
+  animation: dashdraw 0.5s linear infinite;
+}
+
+@keyframes dashdraw {
+  from {
+    stroke-dashoffset: 10;
+  }
+}
+
+.css-neauw2 {
+  gap: 8px;
+  align-items: center;
+}
+
+.css-1dpvzx1 {
+  background: transparent;
+  padding: 4px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+}
+
+.css-3e79hg {
+  background: transparent;
+  padding: 4px;
+  color: inherit;
+  display: flex;
+  align-items: center;
+}
+
+.css-qcr6k0 {
+  display: flex;
+  gap: 8px;
+}
+
+.css-1ba13nr {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.css-1gfiu7m {
+  background: #2d3748;
+  color: #fff;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 14px;
+}
+
+.css-1najp90,
+.css-1rdyypn,
+.css-6r3e9a {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}
+
+.css-1najp90 {
+  background: #48bb78;
+}
+
+.css-1rdyypn {
+  background: #f6ad55;
+}
+
+.css-6r3e9a {
+  background: #e53e3e;
+}
+
+.css-1gdvy40,
+.css-1hj90fm,
+.css-1cwdq7d {
+  background: #4a5568;
+  border-radius: 4px;
+  padding: 2px 8px;
+}
+
+.css-1gdvy40 {
+  background: #e53e3e;
+}
+
+.css-1hj90fm {
+  background: #f6ad55;
+}
+
+.css-1cwdq7d {
+  background: #4a5568;
+}
+
+/* Additional tooltip styles */
+.chakra-tooltip__content {
+  z-index: 1400;
+}
+
+.chakra-tooltip__arrow {
+  --arrow-size: 8px;
+  --arrow-background: #2d3748;
+}
+
+.chakra-menu__content {
+  background: #2d3748;
+  border-radius: 8px;
+  padding: 8px;
+  min-width: 200px;
+}
+
+.chakra-menu__item {
+  padding: 8px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.chakra-menu__item:hover {
+  background: #4a5568;
+}
+
+.metric-node {
+  background-color: #14151E !important;
+}
+
+.react-flow__edge-custom {
+  cursor: pointer;
+}
+
+.react-flow__edge-custom:hover .react-flow__edge-path {
+  stroke-width: 2;
+}
+
+.edge-button-container {
+  overflow: visible;
+}
+
+.edge-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background: #374151;
+  border-radius: 4px;
+  transition: all 0.2s ease-in-out;
+}
+
+.edge-delete-button {
+  background: transparent !important;
+  color: #E53E3E !important;
+  padding: 2px !important;
+  height: 20px !important;
+  width: 20px !important;
+  min-width: 20px !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+.edge-delete-button:hover {
+  background: rgba(229, 62, 62, 0.1) !important;
+  transform: scale(1.1);
+} 
